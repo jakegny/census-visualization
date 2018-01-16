@@ -1,0 +1,1777 @@
+{
+  "websites": [
+    "http://www.1960sflashback.com/1960/Economy.asp",
+    "http://www.archives.upenn.edu/histy/features/tuition/1960.html",
+    "http://www.archives.upenn.edu/histy/features/tuition/1970.html",
+    "https://fred.stlouisfed.org/series/MEFAINUSA672N",
+    "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+    "https://bebusinessed.com/history/history-of-minimum-wage/",
+    "https://en.wikipedia.org/wiki/86th_United_States_Congress",
+    "https://en.wikipedia.org/wiki/87th_United_States_Congress",
+    "https://en.wikipedia.org/wiki/88th_United_States_Congress",
+    "https://en.wikipedia.org/wiki/89th_United_States_Congress",
+    "http://www.multpl.com/united-states-population/table",
+    "https://www.google.com/search?q=what+was+the+life+expectancy+in+the+united+states+in+1988&oq=what+was+the+life+expectancy+in+the+united+states+in+1988&aqs=chrome..69i57.5256j0j7&sourceid=chrome&ie=UTF-8",
+    "https://en.wikipedia.org/wiki/2000_United_States_Census",
+    "https://en.wikipedia.org/wiki/2000_United_States_federal_budget",
+    "https://www.statista.com/statistics/200838/median-household-income-in-the-united-states/",
+    "http://www.multpl.com/unemployment/table",
+    "https://www.census.gov/const/uspriceann.pdf",
+    "https://www.census.gov/construction/nrs/pdf/uspricemon.pdf",
+    "https://en.wikipedia.org/wiki/History_of_United_States_postage_rates",
+    "https://energy.gov/eere/vehicles/fact-915-march-7-2016-average-historical-annual-gasoline-pump-price-1929-2015"
+  ],
+  "data": {
+    "1960": {
+      "president": "Dwight D. Eisenhower",
+      "vp": "Richard M. Nixon",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 180671158,
+      "life_expectancy": 67.7,
+      "dow_jones": {
+        "high": 685,
+        "low": 566
+      },
+      "federal_spending": 92190000000,
+      "federal_debt": 290500000000,
+      "inflation": 1.4,
+      "consumer_price_index": 29.6,
+      "unemployment": 5.5,
+      "adjusted_median_household_income": 39871,
+      "minimum_wage": 1,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 16500,
+        "new_car": "N/A",
+        "first_class_stamp": 0.04,
+        "gallon_of_gas": 0.31,
+        "dozen_eggs": 0.57,
+        "gallon_of_milk": 0.49,
+        "college": {
+          "room_and_board": 950,
+          "books_and_equipment": 75,
+          "personal": 345,
+          "tuition": 1250,
+          "general_fee": 150
+        }
+      }
+    },
+    "1961": {
+      "president": "John F. Kennedy",
+      "vp": "Lyndon B. Johnson",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 183691481,
+      "life_expectancy": 70.2,
+      "dow_jones": {
+        "high": 734,
+        "low": 610
+      },
+      "federal_spending": 97720000000,
+      "federal_debt": 292600000000,
+      "inflation": 1.9,
+      "consumer_price_index": 29.9,
+      "unemployment": 5.5,
+      "adjusted_median_household_income": 40282,
+      "minimum_wage": 1.16,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 17200,
+        "new_car": "N/A",
+        "first_class_stamp": 0.04,
+        "gallon_of_gas": 0.31,
+        "dozen_eggs": 0.57,
+        "gallon_of_milk": 0.49,
+        "college": {
+          "room_and_board": 1000,
+          "books_and_equipment": 100,
+          "personal": 320,
+          "tuition": 1450,
+          "general_fee": 150
+        }
+      }
+    },
+    "1962": {
+      "president": "John F. Kennedy",
+      "vp": "Lyndon B. Johnson",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 186537737,
+      "life_expectancy": 70.1,
+      "dow_jones": {
+        "high": 767,
+        "low": 723
+      },
+      "federal_spending": 106820000000,
+      "federal_debt": 302900000000,
+      "inflation": 0.4,
+      "consumer_price_index": 30.2,
+      "unemployment": 6.7,
+      "adjusted_median_household_income": 41422,
+      "minimum_wage": 1.16,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 18200,
+        "new_car": "N/A",
+        "first_class_stamp": 0.04,
+        "gallon_of_gas": 0.31,
+        "dozen_eggs": 0.54,
+        "gallon_of_milk": 0.49,
+        "college": {
+          "room_and_board": 1000,
+          "books_and_equipment": 100,
+          "personal": 320,
+          "tuition": 1450,
+          "general_fee": 180
+        }
+      }
+    },
+    "1963": {
+      "president": "John F. Kennedy",
+      "vp": "Lyndon B. Johnson",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 189241798,
+      "life_expectancy": 70.1,
+      "dow_jones": {
+        "high": 767,
+        "low": 646
+      },
+      "federal_spending": 111320000000,
+      "federal_debt": 310300000000,
+      "inflation": 1.7,
+      "consumer_price_index": 30.6,
+      "unemployment": 5.5,
+      "adjusted_median_household_income": 42868,
+      "minimum_wage": 1.16,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 19300,
+        "new_car": "N/A",
+        "first_class_stamp": 0.05,
+        "gallon_of_gas": 0.3,
+        "dozen_eggs": 0.55,
+        "gallon_of_milk": 0.49,
+        "college": {
+          "room_and_board": 1000,
+          "books_and_equipment": 100,
+          "personal": 320,
+          "tuition": 1450,
+          "general_fee": 180
+        }
+      }
+    },
+    "1964": {
+      "president": "Lyndon B. Johnson",
+      "vp": "N/A",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 191888791,
+      "life_expectancy": 70.2,
+      "dow_jones": {
+        "high": 891,
+        "low": 776
+      },
+      "federal_spending": 118530000000,
+      "federal_debt": 316100000000,
+      "inflation": 1.2,
+      "consumer_price_index": 31,
+      "unemployment": 5.7,
+      "adjusted_median_household_income": 44457,
+      "minimum_wage": 1.16,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 20500,
+        "new_car": "N/A",
+        "first_class_stamp": 0.05,
+        "gallon_of_gas": 0.3,
+        "dozen_eggs": 0.54,
+        "gallon_of_milk": 0.95,
+        "college": {
+          "room_and_board": 1000,
+          "books_and_equipment": 100,
+          "personal": 320,
+          "tuition": 1570,
+          "general_fee": 180
+        }
+      }
+    },
+    "1965": {
+      "president": "Lyndon B. Johnson",
+      "vp": "Hubert H. Humphrey",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 194302963,
+      "life_expectancy": 70.2,
+      "dow_jones": {
+        "high": 969,
+        "low": 867
+      },
+      "federal_spending": 118230000000,
+      "federal_debt": 322300000000,
+      "inflation": 1.6,
+      "consumer_price_index": 31.5,
+      "unemployment": 5.2,
+      "adjusted_median_household_income": 46371,
+      "minimum_wage": 1.16,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 21500,
+        "new_car": "N/A",
+        "first_class_stamp": 0.05,
+        "gallon_of_gas": 0.31,
+        "dozen_eggs": 0.53,
+        "gallon_of_milk": 0.95,
+        "college": {
+          "room_and_board": 1000,
+          "books_and_equipment": 100,
+          "personal": 320,
+          "tuition": 1570,
+          "general_fee": 180
+        }
+      }
+    },
+    "1966": {
+      "president": "Lyndon B. Johnson",
+      "vp": "Hubert H. Humphrey",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 196560338,
+      "life_expectancy": 70.2,
+      "dow_jones": {
+        "high": 950,
+        "low": 744
+      },
+      "federal_spending": 134530000000,
+      "federal_debt": 328500000000,
+      "inflation": 2.7,
+      "consumer_price_index": 32.4,
+      "unemployment": 4.5,
+      "adjusted_median_household_income": 48820,
+      "minimum_wage": 1.16,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 23300,
+        "new_car": "N/A",
+        "first_class_stamp": 0.05,
+        "gallon_of_gas": 0.32,
+        "dozen_eggs": 0.6,
+        "gallon_of_milk": 0.99,
+        "college": {
+          "room_and_board": 1000,
+          "books_and_equipment": 100,
+          "personal": 320,
+          "tuition": 1770,
+          "general_fee": 180
+        }
+      }
+    },
+    "1967": {
+      "president": "Lyndon B. Johnson",
+      "vp": "Hubert H. Humphrey",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 198712056,
+      "life_expectancy": 70.5,
+      "dow_jones": {
+        "high": 943,
+        "low": 786
+      },
+      "federal_spending": 157460000000,
+      "federal_debt": 340400000000,
+      "inflation": 2.8,
+      "consumer_price_index": 33.4,
+      "unemployment": 3.8,
+      "adjusted_median_household_income": 49861,
+      "minimum_wage": 1.4,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 24600,
+        "new_car": "N/A",
+        "median_household_income": 7143,
+        "first_class_stamp": 0.05,
+        "gallon_of_gas": 0.33,
+        "dozen_eggs": 0.49,
+        "gallon_of_milk": 1.03,
+        "college": {
+          "room_and_board": 1000,
+          "books_and_equipment": 100,
+          "personal": 450,
+          "tuition": 1770,
+          "general_fee": 180
+        }
+      }
+    },
+    "1968": {
+      "president": "Lyndon B. Johnson",
+      "vp": "Hubert H. Humphrey",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 200706052,
+      "life_expectancy": 70.2,
+      "dow_jones": {
+        "high": 985,
+        "low": 825
+      },
+      "federal_spending": 178130000000,
+      "federal_debt": 368700000000,
+      "inflation": 4.2,
+      "consumer_price_index": 34.8,
+      "unemployment": 3.8,
+      "adjusted_median_household_income": 52207,
+      "minimum_wage": 1.6,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 24600,
+        "new_car": "N/A",
+        "median_household_income": 7743,
+        "first_class_stamp": 0.07,
+        "gallon_of_gas": 0.34,
+        "dozen_eggs": 0.53,
+        "gallon_of_milk": 1.07,
+        "college": {
+          "room_and_board": 1050,
+          "books_and_equipment": 100,
+          "personal": 450,
+          "tuition": 1950,
+          "general_fee": 200
+        }
+      }
+    },
+    "1969": {
+      "president": "Richard M. Nixon",
+      "vp": "Spiro T. Agnew",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 202676946,
+      "life_expectancy": 70.5,
+      "dow_jones": {
+        "high": 952,
+        "low": 769
+      },
+      "federal_spending": 183640000000,
+      "federal_debt": 365800000000,
+      "inflation": 5.7,
+      "consumer_price_index": 36.7,
+      "unemployment": 3.6,
+      "adjusted_median_household_income": 54614,
+      "minimum_wage": 1.6,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 27900,
+        "new_car": "N/A",
+        "median_household_income": 8389,
+        "first_class_stamp": 0.06,
+        "gallon_of_gas": 0.35,
+        "dozen_eggs": 0.62,
+        "gallon_of_milk": 1.1,
+        "college": {
+          "room_and_board": 1150,
+          "books_and_equipment": 150,
+          "personal": 350,
+          "tuition": 2150,
+          "general_fee": 200
+        }
+      }
+    },
+    "1970": {
+      "president": "Richard M. Nixon",
+      "vp": "Spiro T. Agnew",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 205052174,
+      "life_expectancy": 70.8,
+      "dow_jones": {
+        "high": 842,
+        "low": 669
+      },
+      "federal_spending": 195650000000,
+      "federal_debt": 380900000000,
+      "inflation": 6.5,
+      "consumer_price_index": 38.8,
+      "unemployment": 3.5,
+      "adjusted_median_household_income": 54446,
+      "minimum_wage": 1.6,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 26600,
+        "new_car": "N/A",
+        "median_household_income": 8734,
+        "first_class_stamp": 0.06,
+        "gallon_of_gas": 0.36,
+        "dozen_eggs": 0.62,
+        "gallon_of_milk": 1.15,
+        "college": {
+          "room_and_board": 1250,
+          "books_and_equipment": 150,
+          "personal": 450,
+          "tuition": 2350,
+          "general_fee": 200
+        }
+      }
+    },
+    "1971": {
+      "president": "Richard M. Nixon",
+      "vp": "Spiro T. Agnew",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 207660677,
+      "life_expectancy": 71.1,
+      "dow_jones": {
+        "high": 950,
+        "low": 790
+      },
+      "federal_spending": 210170000000,
+      "federal_debt": 408200000000,
+      "inflation": 5.7,
+      "consumer_price_index": 40.5,
+      "unemployment": 4.9,
+      "adjusted_median_household_income": 54446,
+      "minimum_wage": 1.6,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 28300,
+        "new_car": "N/A",
+        "median_household_income": 9028,
+        "first_class_stamp": 0.08,
+        "gallon_of_gas": 0.36,
+        "dozen_eggs": 0.53,
+        "gallon_of_milk": 1.18,
+        "college": {
+          "room_and_board": 1250,
+          "books_and_equipment": 150,
+          "personal": 550,
+          "tuition": 2450,
+          "general_fee": 300
+        }
+      }
+    },
+    "1972": {
+      "president": "Richard M. Nixon",
+      "vp": "Spiro T. Agnew",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 209896021,
+      "life_expectancy": 71.2,
+      "dow_jones": {
+        "high": 1036,
+        "low": 921
+      },
+      "federal_spending": 230680000000,
+      "federal_debt": 435900000000,
+      "inflation": 4.3,
+      "consumer_price_index": 41.8,
+      "unemployment": 5.9,
+      "adjusted_median_household_income": 54370,
+      "minimum_wage": 1.6,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 30500,
+        "new_car": "N/A",
+        "median_household_income": 9697,
+        "first_class_stamp": 0.1,
+        "gallon_of_gas": 0.36,
+        "dozen_eggs": 0.52,
+        "gallon_of_milk": 1.2,
+        "college": {
+          "room_and_board": 1250,
+          "books_and_equipment": 150,
+          "personal": 550,
+          "tuition": 2450,
+          "general_fee": 300
+        }
+      }
+    },
+    "1973": {
+      "president": "Richard M. Nixon",
+      "vp": "Spiro T. Agnew",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 211908788,
+      "life_expectancy": 71.4,
+      "dow_jones": {
+        "high": 1051,
+        "low": 788
+      },
+      "federal_spending": 245710000000,
+      "federal_debt": 466300000000,
+      "inflation": 7.6,
+      "consumer_price_index": 44.4,
+      "unemployment": 5.6,
+      "adjusted_median_household_income": 58208,
+      "minimum_wage": 1.6,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 35500,
+        "new_car": "N/A",
+        "median_household_income": 10512,
+        "first_class_stamp": 0.08,
+        "gallon_of_gas": 0.39,
+        "dozen_eggs": 0.78,
+        "gallon_of_milk": 1.31,
+        "college": {
+          "room_and_board": 1535,
+          "books_and_equipment": 150,
+          "personal": 500,
+          "tuition": 2850,
+          "general_fee": 315
+        }
+      }
+    },
+    "1974": {
+      "president": "Richard M. Nixon",
+      "vp": "Spiro T. Agnew",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 213853928,
+      "life_expectancy": 72.0,
+      "dow_jones": {
+        "high": 950,
+        "low": 590
+      },
+      "federal_spending": 269360000000,
+      "federal_debt": 483900000000,
+      "inflation": 13.9,
+      "consumer_price_index": 49.3,
+      "unemployment": 4.9,
+      "adjusted_median_household_income": 55653,
+      "minimum_wage": 2,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 38900,
+        "new_car": "N/A",
+        "median_household_income": 11197,
+        "first_class_stamp": 0.1,
+        "gallon_of_gas": 0.53,
+        "dozen_eggs": 0.78,
+        "gallon_of_milk": 1.57,
+        "college": {
+          "room_and_board": 1700,
+          "books_and_equipment": 150,
+          "personal": 550,
+          "tuition": 3100,
+          "general_fee": 350
+        }
+      }
+    },
+    "1975": {
+      "president": "Gerald R. Ford",
+      "vp": "Nelson A. Rockefeller",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 215973199,
+      "life_expectancy": 72.6,
+      "dow_jones": {
+        "high": 860,
+        "low": 610
+      },
+      "federal_spending": 332330000000,
+      "federal_debt": 541900000000,
+      "inflation": 14.1,
+      "consumer_price_index": 53.8,
+      "unemployment": 5.6,
+      "adjusted_median_household_income": 55665,
+      "minimum_wage": 2.1,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 42600,
+        "new_car": "N/A",
+        "median_household_income": 11800,
+        "first_class_stamp": 0.1,
+        "gallon_of_gas": 0.57,
+        "dozen_eggs": 0.77,
+        "gallon_of_milk": 1.57,
+        "college": {
+          "room_and_board": 1960,
+          "books_and_equipment": 150,
+          "personal": 550,
+          "tuition": 3430,
+          "general_fee": 360
+        }
+      }
+    },
+    "1976": {
+      "president": "Gerald R. Ford",
+      "vp": "Nelson A. Rockefeller",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 218035164,
+      "life_expectancy": 72.9,
+      "dow_jones": {
+        "high": 1004,
+        "low": 858
+      },
+      "federal_spending": 371790000000,
+      "federal_debt": 629000000000,
+      "inflation": 8.7,
+      "consumer_price_index": 56.9,
+      "unemployment": 8.5,
+      "adjusted_median_household_income": 57391,
+      "minimum_wage": 2.3,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 48000,
+        "new_car": "N/A",
+        "median_household_income": 12686,
+        "first_class_stamp": 0.13,
+        "gallon_of_gas": 0.59,
+        "dozen_eggs": 0.84,
+        "gallon_of_milk": 1.65,
+        "college": {
+          "room": 1324,
+          "board": 890,
+          "tuition": 3755,
+          "general_fee": 370
+        }
+      }
+    },
+    "1977": {
+      "president": "James Earl Carter, Jr.",
+      "vp": "Walter F. Mondale",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 220239425,
+      "life_expectancy": 73.3,
+      "dow_jones": {
+        "high": 999,
+        "low": 800
+      },
+      "federal_spending": 409220000000,
+      "federal_debt": 706400000000,
+      "inflation": 11,
+      "consumer_price_index": 60.6,
+      "unemployment": 7.7,
+      "adjusted_median_household_income": 57777,
+      "minimum_wage": 2.3,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 54200,
+        "new_car": "N/A",
+        "median_household_income": 13572,
+        "first_class_stamp": 0.13,
+        "gallon_of_gas": 0.62,
+        "dozen_eggs": 0.82,
+        "gallon_of_milk": 1.68,
+        "college": {
+          "room": 2350,
+          "board": 0,
+          "tuition": 4080,
+          "general_fee": 370
+        }
+      }
+    },
+    "1978": {
+      "president": "James Earl Carter, Jr.",
+      "vp": "Walter F. Mondale",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 222584545,
+      "life_expectancy": 73.5,
+      "dow_jones": {
+        "high": 893,
+        "low": 807
+      },
+      "federal_spending": 458750000000,
+      "federal_debt": 776600000000,
+      "inflation": 12.4,
+      "consumer_price_index": 65.2,
+      "unemployment": 7.1,
+      "adjusted_median_household_income": 59577,
+      "minimum_wage": 2.65,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 62500,
+        "new_car": "N/A",
+        "median_household_income": 15064,
+        "first_class_stamp": 0.15,
+        "gallon_of_gas": 0.63,
+        "dozen_eggs": 0.82,
+        "gallon_of_milk": 1.71,
+        "college": {
+          "room": 2475,
+          "board": 0,
+          "tuition": 4420,
+          "general_fee": 405
+        }
+      }
+    },
+    "1979": {
+      "president": "James Earl Carter, Jr.",
+      "vp": "Walter F. Mondale",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 225055487,
+      "life_expectancy": 73.9,
+      "dow_jones": {
+        "high": 907,
+        "low": 742
+      },
+      "federal_spending": 504030000000,
+      "federal_debt": 829500000000,
+      "inflation": 13.3,
+      "consumer_price_index": 72.6,
+      "unemployment": 6.1,
+      "adjusted_median_household_income": 60423,
+      "minimum_wage": 2.9,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 71800,
+        "new_car": "N/A",
+        "median_household_income": 16461,
+        "first_class_stamp": 0.15,
+        "gallon_of_gas": 0.86,
+        "dozen_eggs": 0.85,
+        "gallon_of_milk": 1.62,
+        "college": {
+          "room": 1810,
+          "board": 1050,
+          "tuition": 5270,
+          "general_fee": 0
+        }
+      }
+    },
+    "1980": {
+      "president": "James Earl Carter, Jr.",
+      "vp": "Walter F. Mondale",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 227224681,
+      "life_expectancy": 73.7,
+      "dow_jones": {
+        "high": 1000,
+        "low": 759
+      },
+      "federal_spending": 590950000000,
+      "federal_debt": 909100000000,
+      "inflation": 13.5,
+      "consumer_price_index": 82.4,
+      "unemployment": 5.8,
+      "adjusted_median_household_income": 58322,
+      "minimum_wage": 3.1,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 76400,
+        "new_car": "N/A",
+        "median_household_income": 17710,
+        "first_class_stamp": 0.15,
+        "gallon_of_gas": 1.25,
+        "dozen_eggs": 0.91,
+        "gallon_of_milk": 2.16,
+        "college": {
+          "room": 2052,
+          "board": 1190,
+          "tuition": 6000,
+          "general_fee": 0
+        }
+      }
+    },
+    "1981": {
+      "president": "Ronald W. Reagan",
+      "vp": "George Bush",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "R",
+      "population": 229465714,
+      "life_expectancy": 74.1,
+      "dow_jones": {
+        "high": 1024,
+        "low": 824
+      },
+      "federal_spending": 678250000000,
+      "federal_debt": 994800000000,
+      "inflation": 10.2,
+      "consumer_price_index": 90.9,
+      "unemployment": 7.1,
+      "adjusted_median_household_income": 56751,
+      "minimum_wage": 3.35,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 83000,
+        "new_car": "N/A",
+        "median_household_income": 19074,
+        "first_class_stamp": 0.18,
+        "gallon_of_gas": 1.38,
+        "dozen_eggs": 0.9,
+        "gallon_of_milk": 2.22,
+        "college": {
+          "room": 0,
+          "board": 1338,
+          "tuition": 6900,
+          "general_fee": 0
+        }
+      }
+    },
+    "1982": {
+      "president": "Ronald W. Reagan",
+      "vp": "George Bush",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "R",
+      "population": 231664458,
+      "life_expectancy": 74.5,
+      "dow_jones": {
+        "high": 1070,
+        "low": 776
+      },
+      "federal_spending": 745760000000,
+      "federal_debt": 1137300000000,
+      "inflation": 6,
+      "consumer_price_index": 96.5,
+      "unemployment": 7.6,
+      "adjusted_median_household_income": 56017,
+      "minimum_wage": 3.35,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 83900,
+        "new_car": "N/A",
+        "median_household_income": 20171,
+        "first_class_stamp": 0.2,
+        "gallon_of_gas": 1.3,
+        "dozen_eggs": 0.84,
+        "gallon_of_milk": 2.24,
+        "college": {
+          "room": 0,
+          "board": 1472,
+          "tuition": 7320,
+          "general_fee": 680
+        }
+      }
+    },
+    "1983": {
+      "president": "Ronald W. Reagan",
+      "vp": "George Bush",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "R",
+      "population": 233791994,
+      "life_expectancy": 74.6,
+      "dow_jones": {
+        "high": 1287,
+        "low": 1027
+      },
+      "federal_spending": 808380000000,
+      "federal_debt": 1371700000000,
+      "inflation": 6,
+      "consumer_price_index": 99.6,
+      "unemployment": 9.7,
+      "adjusted_median_household_income": 56352,
+      "minimum_wage": 3.35,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 89800,
+        "new_car": "N/A",
+        "median_household_income": 20885,
+        "first_class_stamp": 0.2,
+        "gallon_of_gas": 1.24,
+        "dozen_eggs": 0.86,
+        "gallon_of_milk": 2.24,
+        "college": {
+          "room": 0,
+          "board": 1514,
+          "tuition": 8125,
+          "general_fee": 755
+        }
+      }
+    },
+    "1984": {
+      "president": "Ronald W. Reagan",
+      "vp": "George Bush",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "R",
+      "population": 235824902,
+      "life_expectancy": 74.7,
+      "dow_jones": {
+        "high": 1287,
+        "low": 1086
+      },
+      "federal_spending": 851850000000,
+      "federal_debt": 1564700000000,
+      "inflation": "N/A",
+      "consumer_price_index": 103.9,
+      "unemployment": 9.6,
+      "adjusted_median_household_income": 58179,
+      "minimum_wage": 3.35,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 97600,
+        "new_car": "N/A",
+        "median_household_income": 22415,
+        "first_class_stamp": 0.2,
+        "gallon_of_gas": 1.21,
+        "dozen_eggs": 1.01,
+        "gallon_of_milk": 2.26,
+        "college": {
+          "room": 0,
+          "board": 1636,
+          "tuition": 8790,
+          "general_fee": 810
+        }
+      }
+    },
+    "1985": {
+      "president": "Ronald W. Reagan",
+      "vp": "George Bush",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "R",
+      "population": 237923795,
+      "life_expectancy": 74.7,
+      "dow_jones": {
+        "high": 1553,
+        "low": 1184
+      },
+      "federal_spending": 946390000000,
+      "federal_debt": 1817500000000,
+      "inflation": 3.6,
+      "consumer_price_index": 107.6,
+      "unemployment": 7.5,
+      "adjusted_median_household_income": 59018,
+      "minimum_wage": 3.35,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 100800,
+        "new_car": "N/A",
+        "median_household_income": 23618,
+        "first_class_stamp": 0.22,
+        "gallon_of_gas": 1.2,
+        "dozen_eggs": 0.8,
+        "gallon_of_milk": 2.26,
+        "college": {
+          "room": 0,
+          "board": 1686,
+          "tuition": 9525,
+          "general_fee": 875
+        }
+      }
+    },
+    "1986": {
+      "president": "Ronald W. Reagan",
+      "vp": "George Bush",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "R",
+      "population": 240132887,
+      "life_expectancy": 74.7,
+      "dow_jones": {
+        "high": 1955,
+        "low": 1502
+      },
+      "federal_spending": 990340000000,
+      "federal_debt": 2120600000000,
+      "inflation": 1.9,
+      "consumer_price_index": 109.6,
+      "unemployment": 7.2,
+      "adjusted_median_household_income": 61607,
+      "minimum_wage": 3.35,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 111900,
+        "new_car": "N/A",
+        "median_household_income": 24897,
+        "first_class_stamp": 0.22,
+        "gallon_of_gas": 0.93,
+        "dozen_eggs": 0.87,
+        "gallon_of_milk": 2.22,
+        "college": {
+          "room": 0,
+          "board": 1736,
+          "tuition": 10258,
+          "general_fee": 942
+        }
+      }
+    },
+    "1987": {
+      "president": "Ronald W. Reagan",
+      "vp": "George Bush",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 242288918,
+      "life_expectancy": 74.9,
+      "dow_jones": {
+        "high": 2722,
+        "low": 2722
+      },
+      "federal_spending": 1003910000000,
+      "federal_debt": 2346100000000,
+      "inflation": 3.6,
+      "consumer_price_index": 113.6,
+      "unemployment": 7,
+      "adjusted_median_household_income": 62615,
+      "minimum_wage": 3.35,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 127200,
+        "new_car": "N/A",
+        "median_household_income": 26061,
+        "first_class_stamp": 0.22,
+        "gallon_of_gas": 0.95,
+        "dozen_eggs": 0.87,
+        "gallon_of_milk": 2.28,
+        "college": {
+          "room": 0,
+          "board": 1804,
+          "tuition": 10968,
+          "general_fee": 1008
+        }
+      }
+    },
+    "1988": {
+      "president": "Ronald W. Reagan",
+      "vp": "George Bush",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 244498982,
+      "life_expectancy": 74.9,
+      "dow_jones": {
+        "high": 2183,
+        "low": 1879
+      },
+      "federal_spending": 1064140000000,
+      "federal_debt": 2601300000000,
+      "inflation": 4.7,
+      "consumer_price_index": 118.3,
+      "unemployment": 6.2,
+      "adjusted_median_household_income": 62814,
+      "minimum_wage": 3.35,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 138300,
+        "new_car": "N/A",
+        "median_household_income": 27225,
+        "first_class_stamp": 0.25,
+        "gallon_of_gas": 1.08,
+        "dozen_eggs": 0.89,
+        "gallon_of_milk": 2.3,
+        "college": {
+          "room_and_board": 5050,
+          "books_and_supplies": 400,
+          "personal_expenses": 1030,
+          "tuition": 11678,
+          "general_fee": 1071
+        }
+      }
+    },
+    "1989": {
+      "president": "George Bush",
+      "vp": "Dan Quayle",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 246819230,
+      "life_expectancy": 75.1,
+      "dow_jones": {
+        "high": 2791,
+        "low": 2168
+      },
+      "federal_spending": 1143170000000,
+      "federal_debt": 2868000000000,
+      "inflation": 4.6,
+      "consumer_price_index": 124,
+      "unemployment": 5.5,
+      "adjusted_median_household_income": 63963,
+      "minimum_wage": 3.35,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 148800,
+        "new_car": "N/A",
+        "median_household_income": 28906,
+        "first_class_stamp": 0.25,
+        "gallon_of_gas": 1.12,
+        "dozen_eggs": 0.96,
+        "gallon_of_milk": 2.34,
+        "college": {
+          "room_and_board": 5400,
+          "books_and_supplies": 420,
+          "personal_expenses": 1080,
+          "tuition": 12553,
+          "general_fee": 1147
+        }
+      }
+    },
+    "1990": {
+      "president": "George Bush",
+      "vp": "Dan Quayle",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 249438712,
+      "life_expectancy": 75.4,
+      "dow_jones": {
+        "high": 3000,
+        "low": 2365
+      },
+      "federal_spending": 1252520000000,
+      "federal_debt": 3206600000000,
+      "inflation": 5.4,
+      "consumer_price_index": 130.7,
+      "unemployment": 5.3,
+      "adjusted_median_household_income": 62989,
+      "minimum_wage": 3.8,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 149800,
+        "new_car": "N/A",
+        "median_household_income": 29943,
+        "first_class_stamp": 0.25,
+        "gallon_of_gas": 1.16,
+        "dozen_eggs": 1.0,
+        "gallon_of_milk": 2.78,
+        "college": {
+          "board": 2154,
+          "tuition": 13420,
+          "general_fee": 1220,
+          "other": 250
+        }
+      }
+    },
+    "1991": {
+      "president": "George Bush",
+      "vp": "Dan Quayle",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 252127402,
+      "life_expectancy": 75.5,
+      "dow_jones": {
+        "high": 3169,
+        "low": 2470
+      },
+      "federal_spending": 1323630000000,
+      "federal_debt": 3206600000000,
+      "inflation": 4.2,
+      "consumer_price_index": 136.2,
+      "unemployment": 5.6,
+      "adjusted_median_household_income": 61785,
+      "minimum_wage": 4.2,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 147200,
+        "new_car": "N/A",
+        "median_household_income": 30126,
+        "first_class_stamp": 0.29,
+        "gallon_of_gas": 1.14,
+        "dozen_eggs": 1.01,
+        "gallon_of_milk": 2.8,
+        "college": {
+          "room_and_board": 6030,
+          "books_and_supplies": 460,
+          "personal_expenses": 1166,
+          "tuition": 14347,
+          "general_fee": 1297,
+          "technology_fee": 250
+        }
+      }
+    },
+    "1992": {
+      "president": "George Bush",
+      "vp": "Dan Quayle",
+      "white_house": "R",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 254994517,
+      "life_expectancy": 75.8,
+      "dow_jones": {
+        "high": 3413,
+        "low": 3137
+      },
+      "federal_spending": 1380860000000,
+      "federal_debt": 4002100000000,
+      "inflation": 3,
+      "consumer_price_index": 140.3,
+      "unemployment": 6.8,
+      "adjusted_median_household_income": 61349,
+      "minimum_wage": 4.2,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 144100,
+        "new_car": "N/A",
+        "median_household_income": 30636,
+        "first_class_stamp": 0.29,
+        "gallon_of_gas": 1.13,
+        "dozen_eggs": 0.93,
+        "gallon_of_milk": 2.78,
+        "college": {
+          "room_and_board": 6330,
+          "books_and_supplies": 480,
+          "personal_expenses": 1202,
+          "tuition": 15198,
+          "general_fee": 1390,
+          "technology_fee": 250
+        }
+      }
+    },
+    "1993": {
+      "president": "Bill Clinton",
+      "vp": "Al Gore",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 257746103,
+      "life_expectancy": 75.5,
+      "dow_jones": {
+        "high": 3799,
+        "low": 3355
+      },
+      "federal_spending": 1408680000000,
+      "federal_debt": 4351400000000,
+      "inflation": 2.9,
+      "consumer_price_index": 144.5,
+      "unemployment": 7.5,
+      "adjusted_median_household_income": 60472,
+      "minimum_wage": 4.2,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 147700,
+        "new_car": "N/A",
+        "median_household_income": 31241,
+        "first_class_stamp": 0.29,
+        "gallon_of_gas": 1.11,
+        "dozen_eggs": 0.87,
+        "gallon_of_milk": 2.86,
+        "college": {
+          "board": 2488,
+          "tuition": 16102,
+          "general_fee": 1486,
+          "technology_fee": 250
+        }
+      }
+    },
+    "1994": {
+      "president": "Bill Clinton",
+      "vp": "Al Gore",
+      "white_house": "D",
+      "house_majority": "D",
+      "senate_majority": "D",
+      "population": 260289237,
+      "life_expectancy": 75.7,
+      "dow_jones": {
+        "high": 3987,
+        "low": 3593
+      },
+      "federal_spending": 1460840000000,
+      "federal_debt": 4643700000000,
+      "inflation": 2.7,
+      "consumer_price_index": 148.2,
+      "unemployment": 6.9,
+      "adjusted_median_household_income": 62157,
+      "minimum_wage": 4.2,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 154500,
+        "new_car": "N/A",
+        "median_household_income": 32264,
+        "first_class_stamp": 0.29,
+        "gallon_of_gas": 1.11,
+        "dozen_eggs": 0.87,
+        "gallon_of_milk": 2.88,
+        "college": {
+          "room_and_board": 7270,
+          "books_and_supplies": 520,
+          "personal_expenses": 1274,
+          "tuition": 17020,
+          "general_fee": 1586,
+          "technology_fee": 250
+        }
+      }
+    },
+    "1995": {
+      "president": "Bill Clinton",
+      "vp": "Al Gore",
+      "white_house": "D",
+      "house_majority": "R",
+      "senate_majority": "R",
+      "population": 262764948,
+      "life_expectancy": "N/A",
+      "dow_jones": {
+        "high": 5216,
+        "low": 3832
+      },
+      "federal_spending": 1519130000000,
+      "federal_debt": 4921000000000,
+      "inflation": 2.5,
+      "consumer_price_index": 152.4,
+      "unemployment": 6.1,
+      "adjusted_median_household_income": 63557,
+      "minimum_wage": 4.2,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 158700,
+        "new_car": "N/A",
+        "median_household_income": 34076,
+        "first_class_stamp": 0.32,
+        "gallon_of_gas": 1.15,
+        "dozen_eggs": 1.16,
+        "gallon_of_milk": 2.96,
+        "college": {
+          "avg_room_rate": 4342,
+          "meal_plan": 2624,
+          "tuition": 17974,
+          "general_fee": 1674,
+          "technology_fee": 250
+        }
+      }
+    },
+    "1996": {
+      "president": "Bill Clinton",
+      "vp": "Al Gore",
+      "white_house": "D",
+      "house_majority": "R",
+      "senate_majority": "R",
+      "population": 265189794,
+      "life_expectancy": "N/A",
+      "dow_jones": {
+        "high": 6500,
+        "low": 5200
+      },
+      "federal_spending": 1572410000000,
+      "federal_debt": 5207300000000,
+      "inflation": 3.3,
+      "consumer_price_index": 156.9,
+      "unemployment": 5.6,
+      "adjusted_median_household_income": 64483,
+      "minimum_wage": 4.75,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 166400,
+        "new_car": "N/A",
+        "median_household_income": 35492,
+        "first_class_stamp": 0.32,
+        "gallon_of_gas": 1.23,
+        "dozen_eggs": 1.31,
+        "gallon_of_milk": 3.3,
+        "college": {
+          "avg_room_rate": 4342,
+          "meal_plan": 2624,
+          "tuition": 18964,
+          "general_fee": 1766,
+          "technology_fee": 400
+        }
+      }
+    },
+    "1997": {
+      "president": "Bill Clinton",
+      "vp": "Al Gore",
+      "white_house": "D",
+      "house_majority": "R",
+      "senate_majority": "R",
+      "population": 267743595,
+      "life_expectancy": "N/A",
+      "dow_jones": {
+        "high": 8250,
+        "low": 6300
+      },
+      "federal_spending": 1635330000000,
+      "federal_debt": 5498900000000,
+      "inflation": 2.5,
+      "consumer_price_index": 160.5,
+      "unemployment": 5.4,
+      "adjusted_median_household_income": 66530,
+      "minimum_wage": 5.15,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 176200,
+        "new_car": "N/A",
+        "median_household_income": 37005,
+        "first_class_stamp": 0.32,
+        "gallon_of_gas": 1.23,
+        "dozen_eggs": 1.17,
+        "gallon_of_milk": 3.22,
+        "college": {
+          "avg_room_rate": 4428,
+          "meal_plan": 2676,
+          "tuition": 19970,
+          "general_fee": 1860,
+          "technology_fee": 420
+        }
+      }
+    },
+    "1998": {
+      "president": "Bill Clinton",
+      "vp": "Al Gore",
+      "white_house": "D",
+      "house_majority": "R",
+      "senate_majority": "R",
+      "population": 270298524,
+      "life_expectancy": "N/A",
+      "dow_jones": {
+        "high": 9374,
+        "low": 7539
+      },
+      "federal_spending": 1675880000000,
+      "federal_debt": 5750400000000,
+      "inflation": 1.6,
+      "consumer_price_index": 163.0,
+      "unemployment": 4.9,
+      "adjusted_median_household_income": 68808,
+      "minimum_wage": 5.15,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 181900,
+        "new_car": "N/A",
+        "median_household_income": 38568,
+        "first_class_stamp": 0.32,
+        "gallon_of_gas": 1.06,
+        "dozen_eggs": 1.09,
+        "gallon_of_milk": 3.16,
+        "college": {
+          "avg_room_rate": 4560,
+          "meal_plan": 2676,
+          "tuition": 20870,
+          "general_fee": 1944,
+          "technology_fee": 440
+        }
+      }
+    },
+    "1999": {
+      "president": "Bill Clinton",
+      "vp": "Al Gore",
+      "white_house": "D",
+      "house_majority": "R",
+      "senate_majority": "R",
+      "population": 279000000,
+      "life_expectancy": "N/A",
+      "dow_jones": {
+        "high": 11750,
+        "low": 9181
+      },
+      "federal_spending": 1716950000000,
+      "federal_debt": 5978500000000,
+      "inflation": 2.1,
+      "consumer_price_index": "N/A",
+      "unemployment": 4.9,
+      "adjusted_median_household_income": 70392,
+      "minimum_wage": 5.15,
+      "cost_of": {
+        "rent": "N/A",
+        "new_home": 195800,
+        "new_car": "N/A",
+        "first_class_stamp": 0.33,
+        "median_household_income": 40816,
+        "gallon_of_gas": 1.17,
+        "dozen_eggs": 1.08,
+        "gallon_of_milk": 3.32,
+        "college": {
+          "avg_room_rate": 4592,
+          "meal_plan": 2770,
+          "tuition": 21746,
+          "general_fee": 2026,
+          "technology_fee": 458
+        }
+      }
+    },
+    "2000": {
+      "minimum_wage": 5.15,
+      "unemployment": 4.0,
+      "population": 282160000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 58544,
+      "cost_of": {
+        "median_household_income": 42148,
+        "new_home": 207000,
+        "first_class_stamp": 0.33,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2001": {
+      "minimum_wage": 5.15,
+      "unemployment": 4.2,
+      "population": 284970000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 57246,
+      "cost_of": {
+        "median_household_income": 42900,
+        "new_home": 213200,
+        "first_class_stamp": 0.34,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2002": {
+      "minimum_wage": 5.15,
+      "unemployment": 5.7,
+      "population": 287630000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 56599,
+      "cost_of": {
+        "median_household_income": 42409,
+        "new_home": 228700,
+        "first_class_stamp": 0.37,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2003": {
+      "minimum_wage": 5.15,
+      "unemployment": 5.8,
+      "population": 290110000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 56528,
+      "cost_of": {
+        "median_household_income": "",
+        "new_home": 246300,
+        "first_class_stamp": 0.37,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2004": {
+      "minimum_wage": 5.15,
+      "unemployment": 5.7,
+      "population": 292810000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 56332,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 274500,
+        "first_class_stamp": 0.37,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2005": {
+      "minimum_wage": 5.15,
+      "unemployment": 5.3,
+      "population": 295520000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 56935,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 297000,
+        "first_class_stamp": 0.37,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2006": {
+      "minimum_wage": 5.15,
+      "unemployment": 4.7,
+      "population": 298380000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 57379,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 305900,
+        "first_class_stamp": 0.39,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2007": {
+      "minimum_wage": 5.85,
+      "unemployment": 4.6,
+      "population": 301230000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 58149,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 313600,
+        "first_class_stamp": 0.41,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2008": {
+      "minimum_wage": 6.55,
+      "unemployment": 5.0,
+      "population": 304090000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 56076,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 292600,
+        "first_class_stamp": 0.42,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2009": {
+      "minimum_wage": 7.25,
+      "unemployment": 7.8,
+      "population": 306770000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 55683,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 270900,
+        "first_class_stamp": 0.44,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2010": {
+      "minimum_wage": 7.25,
+      "unemployment": 9.8,
+      "population": 309350000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 54245,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 272900,
+        "first_class_stamp": 0.44,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2011": {
+      "minimum_wage": 7.25,
+      "unemployment": 9.1,
+      "population": 311660000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 53401,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 270300,
+        "first_class_stamp": 0.44,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2012": {
+      "minimum_wage": 7.25,
+      "unemployment": 8.3,
+      "population": 314000000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 53331,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 282300,
+        "first_class_stamp": 0.45,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2013": {
+      "minimum_wage": 7.25,
+      "unemployment": 8.0,
+      "population": 316200000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 55214,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 329900,
+        "first_class_stamp": 0.45,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2014": {
+      "minimum_wage": 7.25,
+      "unemployment": 6.6,
+      "population": 318560000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 54398,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 345200,
+        "first_class_stamp": 0.49,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2015": {
+      "minimum_wage": 7.25,
+      "unemployment": 5.7,
+      "population": 320900000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 57230,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 341200,
+        "first_class_stamp": 0.49,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    },
+    "2016": {
+      "minimum_wage": 7.25,
+      "unemployment": 4.9,
+      "population": 323130000,
+      "life_expectancy": "...",
+      "median_household_income": "...",
+      "adjusted_median_household_income": 59039,
+      "cost_of": {
+        "median_household_income": 43389,
+        "new_home": 353000,
+        "first_class_stamp": 0.47,
+        "gallon_of_gas": "...",
+        "gallon_of_milk": "...",
+        "dozen_eggs": "...",
+        "college": {}
+      }
+    }
+  }
+}

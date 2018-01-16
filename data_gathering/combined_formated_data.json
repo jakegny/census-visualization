@@ -1,0 +1,1463 @@
+{
+  "1960": {
+    "president": "Dwight D. Eisenhower",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 180671158,
+    "federal_spending": 92190000000,
+    "federal_debt": 290500000000,
+    "unemployment": 5.5,
+    "minimum_wage": 1,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 16500,
+      "new_car": "N/A",
+      "first_class_stamp": 0.04,
+      "gallon_of_gas": 0.31,
+      "dozen_eggs": 0.57,
+      "gallon_of_milk": 0.49,
+      "college": {
+        "room_and_board": 950,
+        "books_and_equipment": 75,
+        "personal": 345,
+        "tuition": 1250,
+        "general_fee": 150
+      }
+    },
+    "president_party": "R"
+  },
+  "1961": {
+    "president": "John F. Kennedy",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 183691481,
+    "federal_spending": 97720000000,
+    "federal_debt": 292600000000,
+    "unemployment": 5.5,
+    "minimum_wage": 1.16,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 17200,
+      "new_car": "N/A",
+      "first_class_stamp": 0.04,
+      "gallon_of_gas": 0.31,
+      "dozen_eggs": 0.57,
+      "gallon_of_milk": 0.49,
+      "college": {
+        "room_and_board": 1000,
+        "books_and_equipment": 100,
+        "personal": 320,
+        "tuition": 1450,
+        "general_fee": 150
+      }
+    },
+    "president_party": "D"
+  },
+  "1962": {
+    "president": "John F. Kennedy",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 186537737,
+    "federal_spending": 106820000000,
+    "federal_debt": 302900000000,
+    "unemployment": 6.7,
+    "minimum_wage": 1.16,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 18200,
+      "new_car": "N/A",
+      "first_class_stamp": 0.04,
+      "gallon_of_gas": 0.31,
+      "dozen_eggs": 0.54,
+      "gallon_of_milk": 0.49,
+      "college": {
+        "room_and_board": 1000,
+        "books_and_equipment": 100,
+        "personal": 320,
+        "tuition": 1450,
+        "general_fee": 180
+      }
+    },
+    "president_party": "D"
+  },
+  "1963": {
+    "president": "John F. Kennedy",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 189241798,
+    "federal_spending": 111320000000,
+    "federal_debt": 310300000000,
+    "unemployment": 5.5,
+    "minimum_wage": 1.16,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 19300,
+      "new_car": "N/A",
+      "first_class_stamp": 0.05,
+      "gallon_of_gas": 0.3,
+      "dozen_eggs": 0.55,
+      "gallon_of_milk": 0.49,
+      "college": {
+        "room_and_board": 1000,
+        "books_and_equipment": 100,
+        "personal": 320,
+        "tuition": 1450,
+        "general_fee": 180
+      }
+    },
+    "president_party": "D"
+  },
+  "1964": {
+    "president": "Lyndon B. Johnson",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 191888791,
+    "federal_spending": 118530000000,
+    "federal_debt": 316100000000,
+    "unemployment": 5.7,
+    "minimum_wage": 1.16,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 20500,
+      "new_car": "N/A",
+      "first_class_stamp": 0.05,
+      "gallon_of_gas": 0.3,
+      "dozen_eggs": 0.54,
+      "gallon_of_milk": 0.95,
+      "college": {
+        "room_and_board": 1000,
+        "books_and_equipment": 100,
+        "personal": 320,
+        "tuition": 1570,
+        "general_fee": 180
+      }
+    },
+    "president_party": "D"
+  },
+  "1965": {
+    "president": "Lyndon B. Johnson",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 194302963,
+    "federal_spending": 118230000000,
+    "federal_debt": 322300000000,
+    "unemployment": 5.2,
+    "minimum_wage": 1.16,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 21500,
+      "new_car": "N/A",
+      "first_class_stamp": 0.05,
+      "gallon_of_gas": 0.31,
+      "dozen_eggs": 0.53,
+      "gallon_of_milk": 0.95,
+      "college": {
+        "room_and_board": 1000,
+        "books_and_equipment": 100,
+        "personal": 320,
+        "tuition": 1570,
+        "general_fee": 180
+      }
+    },
+    "president_party": "D"
+  },
+  "1966": {
+    "president": "Lyndon B. Johnson",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 196560338,
+    "federal_spending": 134530000000,
+    "federal_debt": 328500000000,
+    "unemployment": 4.5,
+    "minimum_wage": 1.16,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 23300,
+      "new_car": "N/A",
+      "first_class_stamp": 0.05,
+      "gallon_of_gas": 0.32,
+      "dozen_eggs": 0.6,
+      "gallon_of_milk": 0.99,
+      "college": {
+        "room_and_board": 1000,
+        "books_and_equipment": 100,
+        "personal": 320,
+        "tuition": 1770,
+        "general_fee": 180
+      }
+    },
+    "president_party": "D"
+  },
+  "1967": {
+    "president": "Lyndon B. Johnson",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 198712056,
+    "federal_spending": 157460000000,
+    "federal_debt": 340400000000,
+    "unemployment": 3.8,
+    "minimum_wage": 1.4,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 24600,
+      "new_car": "N/A",
+      "median_household_income": 7143,
+      "first_class_stamp": 0.05,
+      "gallon_of_gas": 0.33,
+      "dozen_eggs": 0.49,
+      "gallon_of_milk": 1.03,
+      "college": {
+        "room_and_board": 1000,
+        "books_and_equipment": 100,
+        "personal": 450,
+        "tuition": 1770,
+        "general_fee": 180
+      }
+    },
+    "president_party": "D"
+  },
+  "1968": {
+    "president": "Lyndon B. Johnson",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 200706052,
+    "federal_spending": 178130000000,
+    "federal_debt": 368700000000,
+    "unemployment": 3.8,
+    "minimum_wage": 1.6,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 24600,
+      "new_car": "N/A",
+      "median_household_income": 7743,
+      "first_class_stamp": 0.07,
+      "gallon_of_gas": 0.34,
+      "dozen_eggs": 0.53,
+      "gallon_of_milk": 1.07,
+      "college": {
+        "room_and_board": 1050,
+        "books_and_equipment": 100,
+        "personal": 450,
+        "tuition": 1950,
+        "general_fee": 200
+      }
+    },
+    "president_party": "D"
+  },
+  "1969": {
+    "president": "Richard M. Nixon",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 202676946,
+    "federal_spending": 183640000000,
+    "federal_debt": 365800000000,
+    "unemployment": 3.6,
+    "minimum_wage": 1.6,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 27900,
+      "new_car": "N/A",
+      "median_household_income": 8389,
+      "first_class_stamp": 0.06,
+      "gallon_of_gas": 0.35,
+      "dozen_eggs": 0.62,
+      "gallon_of_milk": 1.1,
+      "college": {
+        "room_and_board": 1150,
+        "books_and_equipment": 150,
+        "personal": 350,
+        "tuition": 2150,
+        "general_fee": 200
+      }
+    },
+    "president_party": "R"
+  },
+  "1970": {
+    "president": "Richard M. Nixon",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 205052174,
+    "federal_spending": 195650000000,
+    "federal_debt": 380900000000,
+    "unemployment": 3.5,
+    "minimum_wage": 1.6,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 26600,
+      "new_car": "N/A",
+      "median_household_income": 8734,
+      "first_class_stamp": 0.06,
+      "gallon_of_gas": 0.36,
+      "dozen_eggs": 0.62,
+      "gallon_of_milk": 1.15,
+      "college": {
+        "room_and_board": 1250,
+        "books_and_equipment": 150,
+        "personal": 450,
+        "tuition": 2350,
+        "general_fee": 200
+      }
+    },
+    "president_party": "R"
+  },
+  "1971": {
+    "president": "Richard M. Nixon",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 207660677,
+    "federal_spending": 210170000000,
+    "federal_debt": 408200000000,
+    "unemployment": 4.9,
+    "minimum_wage": 1.6,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 28300,
+      "new_car": "N/A",
+      "median_household_income": 9028,
+      "first_class_stamp": 0.08,
+      "gallon_of_gas": 0.36,
+      "dozen_eggs": 0.53,
+      "gallon_of_milk": 1.18,
+      "college": {
+        "room_and_board": 1250,
+        "books_and_equipment": 150,
+        "personal": 550,
+        "tuition": 2450,
+        "general_fee": 300
+      }
+    },
+    "president_party": "R"
+  },
+  "1972": {
+    "president": "Richard M. Nixon",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 209896021,
+    "federal_spending": 230680000000,
+    "federal_debt": 435900000000,
+    "unemployment": 5.9,
+    "minimum_wage": 1.6,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 30500,
+      "new_car": "N/A",
+      "median_household_income": 9697,
+      "first_class_stamp": 0.1,
+      "gallon_of_gas": 0.36,
+      "dozen_eggs": 0.52,
+      "gallon_of_milk": 1.2,
+      "college": {
+        "room_and_board": 1250,
+        "books_and_equipment": 150,
+        "personal": 550,
+        "tuition": 2450,
+        "general_fee": 300
+      }
+    },
+    "president_party": "R"
+  },
+  "1973": {
+    "president": "Richard M. Nixon",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 211908788,
+    "federal_spending": 245710000000,
+    "federal_debt": 466300000000,
+    "unemployment": 5.6,
+    "minimum_wage": 1.6,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 35500,
+      "new_car": "N/A",
+      "median_household_income": 10512,
+      "first_class_stamp": 0.08,
+      "gallon_of_gas": 0.39,
+      "dozen_eggs": 0.78,
+      "gallon_of_milk": 1.31,
+      "college": {
+        "room_and_board": 1535,
+        "books_and_equipment": 150,
+        "personal": 500,
+        "tuition": 2850,
+        "general_fee": 315
+      }
+    },
+    "president_party": "R"
+  },
+  "1974": {
+    "president": "Richard M. Nixon",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 213853928,
+    "federal_spending": 269360000000,
+    "federal_debt": 483900000000,
+    "unemployment": 4.9,
+    "minimum_wage": 2,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 38900,
+      "new_car": "N/A",
+      "median_household_income": 11197,
+      "first_class_stamp": 0.1,
+      "gallon_of_gas": 0.53,
+      "dozen_eggs": 0.78,
+      "gallon_of_milk": 1.57,
+      "college": {
+        "room_and_board": 1700,
+        "books_and_equipment": 150,
+        "personal": 550,
+        "tuition": 3100,
+        "general_fee": 350
+      }
+    },
+    "president_party": "R"
+  },
+  "1975": {
+    "president": "Gerald R. Ford",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 215973199,
+    "federal_spending": 332330000000,
+    "federal_debt": 541900000000,
+    "unemployment": 5.6,
+    "minimum_wage": 2.1,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 42600,
+      "new_car": "N/A",
+      "median_household_income": 11800,
+      "first_class_stamp": 0.1,
+      "gallon_of_gas": 0.57,
+      "dozen_eggs": 0.77,
+      "gallon_of_milk": 1.57,
+      "college": {
+        "room_and_board": 1960,
+        "books_and_equipment": 150,
+        "personal": 550,
+        "tuition": 3430,
+        "general_fee": 360
+      }
+    },
+    "president_party": "R"
+  },
+  "1976": {
+    "president": "Gerald R. Ford",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 218035164,
+    "federal_spending": 371790000000,
+    "federal_debt": 629000000000,
+    "unemployment": 8.5,
+    "minimum_wage": 2.3,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 48000,
+      "new_car": "N/A",
+      "median_household_income": 12686,
+      "first_class_stamp": 0.13,
+      "gallon_of_gas": 0.59,
+      "dozen_eggs": 0.84,
+      "gallon_of_milk": 1.65,
+      "college": {
+        "room": 1324,
+        "board": 890,
+        "tuition": 3755,
+        "general_fee": 370
+      }
+    },
+    "president_party": "R"
+  },
+  "1977": {
+    "president": "James Earl Carter, Jr.",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 220239425,
+    "federal_spending": 409220000000,
+    "federal_debt": 706400000000,
+    "unemployment": 7.7,
+    "minimum_wage": 2.3,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 54200,
+      "new_car": "N/A",
+      "median_household_income": 13572,
+      "first_class_stamp": 0.13,
+      "gallon_of_gas": 0.62,
+      "dozen_eggs": 0.82,
+      "gallon_of_milk": 1.68,
+      "college": {
+        "room": 2350,
+        "board": 0,
+        "tuition": 4080,
+        "general_fee": 370
+      }
+    },
+    "president_party": "D"
+  },
+  "1978": {
+    "president": "James Earl Carter, Jr.",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 222584545,
+    "federal_spending": 458750000000,
+    "federal_debt": 776600000000,
+    "unemployment": 7.1,
+    "minimum_wage": 2.65,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 62500,
+      "new_car": "N/A",
+      "median_household_income": 15064,
+      "first_class_stamp": 0.15,
+      "gallon_of_gas": 0.63,
+      "dozen_eggs": 0.82,
+      "gallon_of_milk": 1.71,
+      "college": {
+        "room": 2475,
+        "board": 0,
+        "tuition": 4420,
+        "general_fee": 405
+      }
+    },
+    "president_party": "D"
+  },
+  "1979": {
+    "president": "James Earl Carter, Jr.",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 225055487,
+    "federal_spending": 504030000000,
+    "federal_debt": 829500000000,
+    "unemployment": 6.1,
+    "minimum_wage": 2.9,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 71800,
+      "new_car": "N/A",
+      "median_household_income": 16461,
+      "first_class_stamp": 0.15,
+      "gallon_of_gas": 0.86,
+      "dozen_eggs": 0.85,
+      "gallon_of_milk": 1.62,
+      "college": {
+        "room": 1810,
+        "board": 1050,
+        "tuition": 5270,
+        "general_fee": 0
+      }
+    },
+    "president_party": "D"
+  },
+  "1980": {
+    "president": "James Earl Carter, Jr.",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 227224681,
+    "federal_spending": 590950000000,
+    "federal_debt": 909100000000,
+    "unemployment": 5.8,
+    "minimum_wage": 3.1,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 76400,
+      "new_car": "N/A",
+      "median_household_income": 17710,
+      "first_class_stamp": 0.15,
+      "gallon_of_gas": 1.25,
+      "dozen_eggs": 0.91,
+      "gallon_of_milk": 2.16,
+      "college": {
+        "room": 2052,
+        "board": 1190,
+        "tuition": 6000,
+        "general_fee": 0
+      }
+    },
+    "president_party": "D"
+  },
+  "1981": {
+    "president": "Ronald W. Reagan",
+    "house_majority": "D",
+    "senate_majority": "R",
+    "population": 229465714,
+    "federal_spending": 678250000000,
+    "federal_debt": 994800000000,
+    "unemployment": 7.1,
+    "minimum_wage": 3.35,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 83000,
+      "new_car": "N/A",
+      "median_household_income": 19074,
+      "first_class_stamp": 0.18,
+      "gallon_of_gas": 1.38,
+      "dozen_eggs": 0.9,
+      "gallon_of_milk": 2.22,
+      "college": { "room": 0, "board": 1338, "tuition": 6900, "general_fee": 0 }
+    },
+    "president_party": "R"
+  },
+  "1982": {
+    "president": "Ronald W. Reagan",
+    "house_majority": "D",
+    "senate_majority": "R",
+    "population": 231664458,
+    "federal_spending": 745760000000,
+    "federal_debt": 1137300000000,
+    "unemployment": 7.6,
+    "minimum_wage": 3.35,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 83900,
+      "new_car": "N/A",
+      "median_household_income": 20171,
+      "first_class_stamp": 0.2,
+      "gallon_of_gas": 1.3,
+      "dozen_eggs": 0.84,
+      "gallon_of_milk": 2.24,
+      "college": {
+        "room": 0,
+        "board": 1472,
+        "tuition": 7320,
+        "general_fee": 680
+      }
+    },
+    "president_party": "R"
+  },
+  "1983": {
+    "president": "Ronald W. Reagan",
+    "house_majority": "D",
+    "senate_majority": "R",
+    "population": 233791994,
+    "federal_spending": 808380000000,
+    "federal_debt": 1371700000000,
+    "unemployment": 9.7,
+    "minimum_wage": 3.35,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 89800,
+      "new_car": "N/A",
+      "median_household_income": 20885,
+      "first_class_stamp": 0.2,
+      "gallon_of_gas": 1.24,
+      "dozen_eggs": 0.86,
+      "gallon_of_milk": 2.24,
+      "college": {
+        "room": 0,
+        "board": 1514,
+        "tuition": 8125,
+        "general_fee": 755
+      }
+    },
+    "president_party": "R"
+  },
+  "1984": {
+    "president": "Ronald W. Reagan",
+    "house_majority": "D",
+    "senate_majority": "R",
+    "population": 235824902,
+    "federal_spending": 851850000000,
+    "federal_debt": 1564700000000,
+    "unemployment": 9.6,
+    "minimum_wage": 3.35,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 97600,
+      "new_car": "N/A",
+      "median_household_income": 22415,
+      "first_class_stamp": 0.2,
+      "gallon_of_gas": 1.21,
+      "dozen_eggs": 1.01,
+      "gallon_of_milk": 2.26,
+      "college": {
+        "room": 0,
+        "board": 1636,
+        "tuition": 8790,
+        "general_fee": 810
+      }
+    },
+    "president_party": "R"
+  },
+  "1985": {
+    "president": "Ronald W. Reagan",
+    "house_majority": "D",
+    "senate_majority": "R",
+    "population": 237923795,
+    "federal_spending": 946390000000,
+    "federal_debt": 1817500000000,
+    "unemployment": 7.5,
+    "minimum_wage": 3.35,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 100800,
+      "new_car": "N/A",
+      "median_household_income": 23618,
+      "first_class_stamp": 0.22,
+      "gallon_of_gas": 1.2,
+      "dozen_eggs": 0.8,
+      "gallon_of_milk": 2.26,
+      "college": {
+        "room": 0,
+        "board": 1686,
+        "tuition": 9525,
+        "general_fee": 875
+      }
+    },
+    "president_party": "R"
+  },
+  "1986": {
+    "president": "Ronald W. Reagan",
+    "house_majority": "D",
+    "senate_majority": "R",
+    "population": 240132887,
+    "federal_spending": 990340000000,
+    "federal_debt": 2120600000000,
+    "unemployment": 7.2,
+    "minimum_wage": 3.35,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 111900,
+      "new_car": "N/A",
+      "median_household_income": 24897,
+      "first_class_stamp": 0.22,
+      "gallon_of_gas": 0.93,
+      "dozen_eggs": 0.87,
+      "gallon_of_milk": 2.22,
+      "college": {
+        "room": 0,
+        "board": 1736,
+        "tuition": 10258,
+        "general_fee": 942
+      }
+    },
+    "president_party": "R"
+  },
+  "1987": {
+    "president": "Ronald W. Reagan",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 242288918,
+    "federal_spending": 1003910000000,
+    "federal_debt": 2346100000000,
+    "unemployment": 7,
+    "minimum_wage": 3.35,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 127200,
+      "new_car": "N/A",
+      "median_household_income": 26061,
+      "first_class_stamp": 0.22,
+      "gallon_of_gas": 0.95,
+      "dozen_eggs": 0.87,
+      "gallon_of_milk": 2.28,
+      "college": {
+        "room": 0,
+        "board": 1804,
+        "tuition": 10968,
+        "general_fee": 1008
+      }
+    },
+    "president_party": "R"
+  },
+  "1988": {
+    "president": "Ronald W. Reagan",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 244498982,
+    "federal_spending": 1064140000000,
+    "federal_debt": 2601300000000,
+    "unemployment": 6.2,
+    "minimum_wage": 3.35,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 138300,
+      "new_car": "N/A",
+      "median_household_income": 27225,
+      "first_class_stamp": 0.25,
+      "gallon_of_gas": 1.08,
+      "dozen_eggs": 0.89,
+      "gallon_of_milk": 2.3,
+      "college": {
+        "room_and_board": 5050,
+        "books_and_supplies": 400,
+        "personal_expenses": 1030,
+        "tuition": 11678,
+        "general_fee": 1071
+      }
+    },
+    "president_party": "R"
+  },
+  "1989": {
+    "president": "George Bush",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 246819230,
+    "federal_spending": 1143170000000,
+    "federal_debt": 2868000000000,
+    "unemployment": 5.5,
+    "minimum_wage": 3.35,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 148800,
+      "new_car": "N/A",
+      "median_household_income": 28906,
+      "first_class_stamp": 0.25,
+      "gallon_of_gas": 1.12,
+      "dozen_eggs": 0.96,
+      "gallon_of_milk": 2.34,
+      "college": {
+        "room_and_board": 5400,
+        "books_and_supplies": 420,
+        "personal_expenses": 1080,
+        "tuition": 12553,
+        "general_fee": 1147
+      }
+    },
+    "president_party": "R"
+  },
+  "1990": {
+    "president": "George Bush",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 249438712,
+    "federal_spending": 1252520000000,
+    "federal_debt": 3206600000000,
+    "unemployment": 5.3,
+    "minimum_wage": 3.8,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 149800,
+      "new_car": "N/A",
+      "median_household_income": 29943,
+      "first_class_stamp": 0.25,
+      "gallon_of_gas": 1.16,
+      "dozen_eggs": 1.0,
+      "gallon_of_milk": 2.78,
+      "college": {
+        "board": 2154,
+        "tuition": 13420,
+        "general_fee": 1220,
+        "other": 250
+      }
+    },
+    "president_party": "R"
+  },
+  "1991": {
+    "president": "George Bush",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 252127402,
+    "federal_spending": 1323630000000,
+    "federal_debt": 3206600000000,
+    "unemployment": 5.6,
+    "minimum_wage": 4.2,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 147200,
+      "new_car": "N/A",
+      "median_household_income": 30126,
+      "first_class_stamp": 0.29,
+      "gallon_of_gas": 1.14,
+      "dozen_eggs": 1.01,
+      "gallon_of_milk": 2.8,
+      "college": {
+        "room_and_board": 6030,
+        "books_and_supplies": 460,
+        "personal_expenses": 1166,
+        "tuition": 14347,
+        "general_fee": 1297,
+        "technology_fee": 250
+      }
+    },
+    "president_party": "R"
+  },
+  "1992": {
+    "president": "George Bush",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 254994517,
+    "federal_spending": 1380860000000,
+    "federal_debt": 4002100000000,
+    "unemployment": 6.8,
+    "minimum_wage": 4.2,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 144100,
+      "new_car": "N/A",
+      "median_household_income": 30636,
+      "first_class_stamp": 0.29,
+      "gallon_of_gas": 1.13,
+      "dozen_eggs": 0.93,
+      "gallon_of_milk": 2.78,
+      "college": {
+        "room_and_board": 6330,
+        "books_and_supplies": 480,
+        "personal_expenses": 1202,
+        "tuition": 15198,
+        "general_fee": 1390,
+        "technology_fee": 250
+      }
+    },
+    "president_party": "R"
+  },
+  "1993": {
+    "president": "Bill Clinton",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 257746103,
+    "federal_spending": 1408680000000,
+    "federal_debt": 4351400000000,
+    "unemployment": 7.5,
+    "minimum_wage": 4.2,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 147700,
+      "new_car": "N/A",
+      "median_household_income": 31241,
+      "first_class_stamp": 0.29,
+      "gallon_of_gas": 1.11,
+      "dozen_eggs": 0.87,
+      "gallon_of_milk": 2.86,
+      "college": {
+        "board": 2488,
+        "tuition": 16102,
+        "general_fee": 1486,
+        "technology_fee": 250
+      }
+    },
+    "president_party": "D",
+    "congressional_session": "103"
+  },
+  "1994": {
+    "president": "Bill Clinton",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "population": 260289237,
+    "federal_spending": 1460840000000,
+    "federal_debt": 4643700000000,
+    "unemployment": 6.9,
+    "minimum_wage": 4.2,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 154500,
+      "new_car": "N/A",
+      "median_household_income": 32264,
+      "first_class_stamp": 0.29,
+      "gallon_of_gas": 1.11,
+      "dozen_eggs": 0.87,
+      "gallon_of_milk": 2.88,
+      "college": {
+        "room_and_board": 7270,
+        "books_and_supplies": 520,
+        "personal_expenses": 1274,
+        "tuition": 17020,
+        "general_fee": 1586,
+        "technology_fee": 250
+      }
+    },
+    "president_party": "D",
+    "congressional_session": "103"
+  },
+  "1995": {
+    "president": "Bill Clinton",
+    "house_majority": "R",
+    "senate_majority": "R",
+    "population": 262764948,
+    "federal_spending": 1519130000000,
+    "federal_debt": 4921000000000,
+    "unemployment": 6.1,
+    "minimum_wage": 4.2,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 158700,
+      "new_car": "N/A",
+      "median_household_income": 34076,
+      "first_class_stamp": 0.32,
+      "gallon_of_gas": 1.15,
+      "dozen_eggs": 1.16,
+      "gallon_of_milk": 2.96,
+      "college": {
+        "avg_room_rate": 4342,
+        "meal_plan": 2624,
+        "tuition": 17974,
+        "general_fee": 1674,
+        "technology_fee": 250
+      }
+    },
+    "president_party": "D",
+    "congressional_session": "104"
+  },
+  "1996": {
+    "president": "Bill Clinton",
+    "house_majority": "R",
+    "senate_majority": "R",
+    "population": 265189794,
+    "federal_spending": 1572410000000,
+    "federal_debt": 5207300000000,
+    "unemployment": 5.6,
+    "minimum_wage": 4.75,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 166400,
+      "new_car": "N/A",
+      "median_household_income": 35492,
+      "first_class_stamp": 0.32,
+      "gallon_of_gas": 1.23,
+      "dozen_eggs": 1.31,
+      "gallon_of_milk": 3.3,
+      "college": {
+        "avg_room_rate": 4342,
+        "meal_plan": 2624,
+        "tuition": 18964,
+        "general_fee": 1766,
+        "technology_fee": 400
+      }
+    },
+    "president_party": "D",
+    "congressional_session": "104"
+  },
+  "1997": {
+    "president": "Bill Clinton",
+    "house_majority": "R",
+    "senate_majority": "R",
+    "population": 267743595,
+    "federal_spending": 1635330000000,
+    "federal_debt": 5498900000000,
+    "unemployment": 5.4,
+    "minimum_wage": 5.15,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 176200,
+      "new_car": "N/A",
+      "median_household_income": 37005,
+      "first_class_stamp": 0.32,
+      "gallon_of_gas": 1.23,
+      "dozen_eggs": 1.17,
+      "gallon_of_milk": 3.22,
+      "college": {
+        "avg_room_rate": 4428,
+        "meal_plan": 2676,
+        "tuition": 19970,
+        "general_fee": 1860,
+        "technology_fee": 420
+      }
+    },
+    "president_party": "D",
+    "congressional_session": "105"
+  },
+  "1998": {
+    "president": "Bill Clinton",
+    "house_majority": "R",
+    "senate_majority": "R",
+    "population": 270298524,
+    "federal_spending": 1675880000000,
+    "federal_debt": 5750400000000,
+    "unemployment": 4.9,
+    "minimum_wage": 5.15,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 181900,
+      "new_car": "N/A",
+      "median_household_income": 38568,
+      "first_class_stamp": 0.32,
+      "gallon_of_gas": 1.06,
+      "dozen_eggs": 1.09,
+      "gallon_of_milk": 3.16,
+      "college": {
+        "avg_room_rate": 4560,
+        "meal_plan": 2676,
+        "tuition": 20870,
+        "general_fee": 1944,
+        "technology_fee": 440
+      }
+    },
+    "president_party": "D",
+    "congressional_session": "105"
+  },
+  "1999": {
+    "president": "Bill Clinton",
+    "house_majority": "R",
+    "senate_majority": "R",
+    "population": 279000000,
+    "federal_spending": 1716950000000,
+    "federal_debt": 5978500000000,
+    "unemployment": 4.9,
+    "minimum_wage": 5.15,
+    "cost_of": {
+      "rent": "N/A",
+      "new_home": 195800,
+      "new_car": "N/A",
+      "first_class_stamp": 0.33,
+      "median_household_income": 40816,
+      "gallon_of_gas": 1.17,
+      "dozen_eggs": 1.08,
+      "gallon_of_milk": 3.32,
+      "college": {
+        "avg_room_rate": 4592,
+        "meal_plan": 2770,
+        "tuition": 21746,
+        "general_fee": 2026,
+        "technology_fee": 458
+      }
+    },
+    "president_party": "D",
+    "congressional_session": "106"
+  },
+  "2000": {
+    "minimum_wage": 5.15,
+    "unemployment": 4.0,
+    "population": 282160000,
+    "cost_of": {
+      "median_household_income": 42148,
+      "new_home": 207000,
+      "first_class_stamp": 0.33,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "Bill Clinton",
+    "president_party": "D",
+    "house_majority": "R",
+    "senate_majority": "R",
+    "federal_spending": 1766000000000.0,
+    "federal_debt": 5629000000000.0,
+    "congressional_session": "106"
+  },
+  "2001": {
+    "minimum_wage": 5.15,
+    "unemployment": 4.2,
+    "population": 284970000,
+    "cost_of": {
+      "median_household_income": 42900,
+      "new_home": 213200,
+      "first_class_stamp": 0.34,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "George W. Bush",
+    "president_party": "R",
+    "house_majority": "R",
+    "senate_majority": "D",
+    "federal_spending": 1835000000000.0,
+    "federal_debt": 5770000000000.0,
+    "congressional_session": "107"
+  },
+  "2002": {
+    "minimum_wage": 5.15,
+    "unemployment": 5.7,
+    "population": 287630000,
+    "cost_of": {
+      "median_household_income": 42409,
+      "new_home": 228700,
+      "first_class_stamp": 0.37,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "George W. Bush",
+    "president_party": "R",
+    "house_majority": "R",
+    "senate_majority": "D",
+    "federal_spending": 1960000000000.0,
+    "federal_debt": 6198000000000.0,
+    "congressional_session": "107"
+  },
+  "2003": {
+    "minimum_wage": 5.15,
+    "unemployment": 5.8,
+    "population": 290110000,
+    "cost_of": {
+      "median_household_income": "",
+      "new_home": 246300,
+      "first_class_stamp": 0.37,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "George W. Bush",
+    "president_party": "R",
+    "house_majority": "R",
+    "senate_majority": "R",
+    "federal_spending": 2130000000000.0,
+    "federal_debt": 6760000000000.0,
+    "congressional_session": "108"
+  },
+  "2004": {
+    "minimum_wage": 5.15,
+    "unemployment": 5.7,
+    "population": 292810000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 274500,
+      "first_class_stamp": 0.37,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "George W. Bush",
+    "president_party": "R",
+    "house_majority": "R",
+    "senate_majority": "R",
+    "federal_spending": 2230000000000.0,
+    "federal_debt": 7350000000000.0,
+    "congressional_session": "108"
+  },
+  "2005": {
+    "minimum_wage": 5.15,
+    "unemployment": 5.3,
+    "population": 295520000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 297000,
+      "first_class_stamp": 0.37,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "George W. Bush",
+    "president_party": "R",
+    "house_majority": "R",
+    "senate_majority": "R",
+    "federal_spending": 2400000000000.0,
+    "federal_debt": 7905000000000.0,
+    "congressional_session": "109"
+  },
+  "2006": {
+    "minimum_wage": 5.15,
+    "unemployment": 4.7,
+    "population": 298380000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 305900,
+      "first_class_stamp": 0.39,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "George W. Bush",
+    "president_party": "R",
+    "house_majority": "R",
+    "senate_majority": "R",
+    "federal_spending": 2568000000000.0,
+    "federal_debt": 8449999999999.999,
+    "congressional_session": "109"
+  },
+  "2007": {
+    "minimum_wage": 5.85,
+    "unemployment": 4.6,
+    "population": 301230000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 313600,
+      "first_class_stamp": 0.41,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "George W. Bush",
+    "president_party": "R",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "federal_spending": 2770000000000.0,
+    "federal_debt": 8950000000000.0,
+    "congressional_session": "110"
+  },
+  "2008": {
+    "minimum_wage": 6.55,
+    "unemployment": 5.0,
+    "population": 304090000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 292600,
+      "first_class_stamp": 0.42,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "George W. Bush",
+    "president_party": "R",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "federal_spending": 2902000000000.0,
+    "federal_debt": 9986000000000.0,
+    "congressional_session": "110"
+  },
+  "2009": {
+    "minimum_wage": 7.25,
+    "unemployment": 7.8,
+    "population": 306770000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 270900,
+      "first_class_stamp": 0.44,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "Barack Obama",
+    "president_party": "D",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "federal_spending": 3107000000000.0,
+    "federal_debt": 11876000000000.0,
+    "congressional_session": "111"
+  },
+  "2010": {
+    "minimum_wage": 7.25,
+    "unemployment": 9.8,
+    "population": 309350000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 272900,
+      "first_class_stamp": 0.44,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "Barack Obama",
+    "president_party": "D",
+    "house_majority": "D",
+    "senate_majority": "D",
+    "federal_spending": 3552000000000.0,
+    "federal_debt": 13530000000000.0,
+    "congressional_session": "111"
+  },
+  "2011": {
+    "minimum_wage": 7.25,
+    "unemployment": 9.1,
+    "population": 311660000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 270300,
+      "first_class_stamp": 0.44,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "Barack Obama",
+    "president_party": "D",
+    "house_majority": "R",
+    "senate_majority": "D",
+    "federal_spending": 3834000000000.0,
+    "federal_debt": 14764000000000.0,
+    "congressional_session": "112"
+  },
+  "2012": {
+    "minimum_wage": 7.25,
+    "unemployment": 8.3,
+    "population": 314000000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 282300,
+      "first_class_stamp": 0.45,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "Barack Obama",
+    "president_party": "D",
+    "house_majority": "R",
+    "senate_majority": "D",
+    "federal_spending": 3729000000000.0,
+    "federal_debt": "$16.65 Trillion ",
+    "congressional_session": "112"
+  },
+  "2013": {
+    "minimum_wage": 7.25,
+    "unemployment": 8.0,
+    "population": 316200000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 329900,
+      "first_class_stamp": 0.45,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "Barack Obama",
+    "president_party": "D",
+    "house_majority": "R",
+    "senate_majority": "D",
+    "federal_spending": 3803000000000.0,
+    "federal_debt": 16719999999999.998,
+    "congressional_session": "113"
+  },
+  "2014": {
+    "minimum_wage": 7.25,
+    "unemployment": 6.6,
+    "population": 318560000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 345200,
+      "first_class_stamp": 0.49,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "Barack Obama",
+    "president_party": "D",
+    "house_majority": "R",
+    "senate_majority": "D",
+    "federal_spending": 3770000000000.0,
+    "federal_debt": 17790000000000.0,
+    "congressional_session": "113"
+  },
+  "2015": {
+    "minimum_wage": 7.25,
+    "unemployment": 5.7,
+    "population": 320900000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 341200,
+      "first_class_stamp": 0.49,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "Barack Obama",
+    "president_party": "D",
+    "house_majority": "R",
+    "senate_majority": "R",
+    "federal_spending": 3900000000000.0,
+    "federal_debt": 18690000000000.0,
+    "congressional_session": "114"
+  },
+  "2016": {
+    "minimum_wage": 7.25,
+    "unemployment": 4.9,
+    "population": 323130000,
+    "cost_of": {
+      "median_household_income": 43389,
+      "new_home": 353000,
+      "first_class_stamp": 0.47,
+      "gallon_of_gas": "...",
+      "gallon_of_milk": "...",
+      "dozen_eggs": "...",
+      "college": {}
+    },
+    "president": "Barack Obama",
+    "president_party": "D",
+    "house_majority": "R",
+    "senate_majority": "R",
+    "federal_spending": 3999000000000.0,
+    "federal_debt": "N/A",
+    "congressional_session": "114"
+  }
+}

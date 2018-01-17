@@ -11,9 +11,9 @@ def moneyToInt(value):
     else:
         no_dollar = value[1:]
         split = no_dollar.split()
-        if split[1] == 'trillion':
+        if split[1] == 'trillion' or split[1] == 'Trillion':
             return float(split[0]) * 1000000000000
-        elif split[1] == 'billion':
+        elif split[1] == 'billion' or split[1] == 'Billion':
             return float(split[0]) * 1000000000
         else:
             # print('what is this?', value)

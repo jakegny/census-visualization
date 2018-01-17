@@ -1,0 +1,23 @@
+.mainContainer {
+  width: 80%;
+  margin: 10px 30px;
+}
+.mainOne {
+  width: 50%;
+  background: #ccc;
+  border: 2px solid gray;
+  margin: 0px 10px;
+  /* margin: 10px 30px; */
+  /* height: 200px; */
+  /* background: red; */
+  float: left;
+}
+.mainTwo {
+  /* margin-left: 15%; */
+  background: #ccc;
+  border: 2px solid gray;
+  margin: 0px 10px;
+
+  /* height: 200px; */
+  /* background: black; */
+}

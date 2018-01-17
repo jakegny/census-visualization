@@ -11,18 +11,20 @@ import {
   LabelList,
   AreaChart,
   Area,
-  ResponsiveContainer
+  ResponsiveContainer,
+  ReferenceLine
 } from "recharts";
 import format from "../../data/format";
 
 const component = props => {
   const formatFunc = props.formatFunc;
-  const dataKey = props.dataKey;
-  const data = formatFunc(props.data, dataKey, props.partyKey);
+  const data = formatFunc(props.data, props.dataValue, props.partyKey);
+  const dataKey = "percent_change";
+  // console.log("data", data);
 
   return (
     <div>
-      <p>{props.chartTitle || "LineChart"}</p>
+      <p>{props.chartTitle || "PercentChangeChart"}</p>
       <div
         className="line-chart-wrapper"
         style={{
@@ -32,7 +34,6 @@ const component = props => {
           backgroundColor: "#f5f5f5"
         }}
       >
-        {" "}
         <ResponsiveContainer>
           <ComposedChart
             height={400}
@@ -49,7 +50,6 @@ const component = props => {
             />
             <YAxis yAxisId={0} />
             <Tooltip />
-            <CartesianGrid vertical={false} />
 
             <Area
               stackId="0"
@@ -66,7 +66,8 @@ const component = props => {
               fill="#983D3D"
               yAxisId={1}
             />
-            <Line yAxisId={0} dataKey={dataKey} stroke="#000" dot={false} />
+            <Line dataKey={dataKey} stroke="#000" dot={false} yAxisId={0} />
+            <ReferenceLine y={0} stroke="#444" />
 
             <Brush dataKey="year" startIndex={data.length - 40}>
               <AreaChart>
